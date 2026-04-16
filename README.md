@@ -1,5 +1,4 @@
-<img width="1087" height="597" alt="image" src="https://github.com/user-attachments/assets/698296a3-015e-4a61-a870-3948f08e0510" /># ride-hailing-powerbi-dashboard
-Power BI dashboard analyzing fleet, driver, and city performance
+
 #  Ride-Hailing Performance Dashboard
 
 This project presents an interactive **Power BI dashboard** designed to analyze ride-hailing operations across cities, fleets, and drivers.  
